@@ -32,14 +32,13 @@ pip install streamlit tensorflow pandas numpy scikit-learn
 
 # Run the app
 streamlit run app.py
-
+```
 ## 🖼️ App Features
 
 - Upload ECG signals via **CSV** file or manual input  
 - Real-time heartbeat classification with **confidence scores**  
 - Clean, animated **user interface** built with Streamlit  
 - Input validation and **error handling** for user-friendly experience  
-
 ---
 
 ## 📊 Evaluation
