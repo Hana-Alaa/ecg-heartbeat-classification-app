@@ -1,4 +1,4 @@
-# ECG Heartbeat Classification Web App 🫀
+# ECG Heartbeat Classification Web App 
 
 This project is a web-based diagnostic tool that uses a Convolutional Neural Network (CNN) to classify ECG signals into five heartbeat categories:
 - Normal (N)
@@ -51,13 +51,13 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-### 🔍 Prediction View  
+### 🔍 Input View  
 ![Prediction Result](screenshots/1.png)
 
 ### 🖥️ Input View  
 ![Input View](screenshots/2.png)
 
-### ⚠️ Error Handling  
+### 🖥️ Prediction View
 ![Error Message](screenshots/3.png)
 
 ## 📁 Files
